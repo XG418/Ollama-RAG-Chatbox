@@ -5,17 +5,18 @@ This is a Retrieval-Augmented Generation (RAG) chatbot built using Streamlit to 
 
 ## ⚙️ Tech Stack
 
-Frontend: Streamlit
+- Frontend: Streamlit
 
-Data Handling: Pandas, PyPDF
+- Data Handling: Pandas, PyPDF
 
-Embeddings: HuggingFace all-MiniLM-L6-v2
+- Embeddings: HuggingFace all-MiniLM-L6-v2
 
-Vector Database: Chroma
+- Vector Database: Chroma
 
-LLM: Ollama qwen2
+- LLM: Ollama qwen2
 
-Language: Python
+- Language: Python
+
 
 ## 🌟 Key Features
 
